@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Terraform, Kubernetes**
 
-- 💬 Ask me about **C# | .NET Core | WebAPI | SQL | Docker | Serverless | Cloud (Azure, AWS) | DevOps **
+- 💬 Ask me about **C# | .NET Core | WebAPI | SQL | Docker | Serverless | Cloud (Azure, AWS) | DevOps**
 
 - 📫 How to reach me **soninirav910@gmail.com**
 
