@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niravmsoni&label=Profile%20views&color=0e75b6&style=flat" alt="niravmsoni" /> </p>
 
-- 🌱 I’m currently learning **Terraform, Kubernetes**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **C# | .NET Core | WebAPI | SQL | Docker | Serverless | Cloud (Azure, AWS) | DevOps**
+- 💬 Ask me about **C# | .NET Core | WebAPI | SQL | Docker | Serverless | Cloud (Azure, AWS) | DevOps | Terraform**
 
 - 📫 How to reach me **soninirav910@gmail.com**
 
