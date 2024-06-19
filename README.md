@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **C# | .NET Core | WebAPI | SQL | Docker | Serverless | Cloud (Azure, AWS) | DevOps | Terraform | Kubernetes*
+- 💬 Ask me about *C# | .NET Core | WebAPI | SQL | Docker | Serverless | Cloud (Azure, AWS) | DevOps | Terraform | Kubernetes*
 
 - 📫 How to reach me **soninirav910@gmail.com**
 
