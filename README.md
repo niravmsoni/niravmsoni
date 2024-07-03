@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirav Soni</h1>
+<h1 align="center">Hi 👋, I'm Nirav</h1>
 <h3 align="center">A passionate .NET Cloud engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niravmsoni&label=Profile%20views&color=0e75b6&style=flat" alt="niravmsoni" /> </p>
